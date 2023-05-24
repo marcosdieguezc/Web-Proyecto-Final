@@ -84,9 +84,26 @@ CREATE TABLE `products` (
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 INSERT INTO `products` (`product_id`, `product_cat`, `product_brand`, `product_title`, `product_price`, `product_desc`, `product_image`, `product_keywords`) VALUES
-(1, '1', '2', 'Samsung Galaxy S23', 1200, 'Samsung  Galaxy S23 512Gb', 'samsung.JPG', 'samsung mobile electronics'),
-(2, '1', '3', 'Reloj', 200, 'Smartwatch Xiaomi ', 'reloj.JPG', 'xiaomi electronics'),
-(3, '1', '3', 'Ordenador DELL', 30000, 'Ordenador DELL I7 16Gb', 'dell.jpg', 'DELL computers');
+(1, '2', '2', 'Samsung Galaxy S23 128gb', 1200, 'Samsung  Galaxy S23 512Gb', 'samsung.JPG', 'samsung mobile electronics'),
+(2, '3', '3', 'Reloj Samsung Watchfit', 200, 'Smartwatch Samsung ', 'reloj.JPG', 'xiaomi electronics'),
+(3, '5', '3', 'DELL Vostro 3410 i7 16Gb', 1300, 'Ordenador DELL I7 16Gb', 'dell.jpg', 'DELL computers');
+(4, '2', '2', 'iPhone 14 Pro 256GB', 1300, 'Apple iPhone 14 Pro 256GB', 'iphone14.jpg', 'Apple smartphones'),
+(5, '2', '3', 'Google Pixel 6 128GB', 900, 'Google Pixel 6 128GB 5G Smartphone', 'pixel6.jpg', 'Google smartphones'),
+(6, '1', '1', 'LG OLED65CXPUA', 2500, 'LG OLED65CXPUA 65" 4K Smart OLED TV', 'lg_oled.jpg', 'LG televisions'),
+(7, '4', '4', 'iRobot Roomba i7+', 800, 'iRobot Roomba i7+ Robot Vacuum Cleaner', 'roomba.jpg', 'iRobot robotic cleaners'),
+(8, '4', '5', 'DJI Mavic Air 2', 1000, 'DJI Mavic Air 2 Drone Quadcopter', 'mavic_air2.jpg', 'DJI drones'),
+(9, '6', '6', 'Nintendo Switch OLED', 350, 'Nintendo Switch OLED 7" Handheld Gaming Console', 'switch_oled.jpg', 'Nintendo gaming consoles'),
+(10, '6', '7', 'PlayStation 5 Digital Edition', 400, 'Sony PlayStation 5 Digital Edition Gaming Console', 'ps5_digital.jpg', 'Sony gaming consoles'),
+(11, '5', '8', 'HP Spectre x360', 1200, 'HP Spectre x360 13.3" 4K Touchscreen Laptop', 'hp_spectre.jpg', 'HP laptops'),
+(12, '5', '9', 'Lenovo ThinkPad X1 Carbon', 1500, 'Lenovo ThinkPad X1 Carbon 14" Laptop', 'thinkpad.jpg', 'Lenovo laptops'),
+(13, '3', '10', 'Garmin Fenix 6', 600, 'Garmin Fenix 6 Multisport GPS Smartwatch', 'garmin_fenix6.jpg', 'Garmin smartwatches'),
+(14, '3', '11', 'Fitbit Versa 3', 250, 'Fitbit Versa 3 Health & Fitness Smartwatch', 'fitbit_versa3.jpg', 'Fitbit smartwatches'),
+(15, '4', '12', 'Anki Vector', 250, 'Anki Vector Home Robot Assistant', 'anki_vector.jpg', 'Anki robots');
+(16, '1', '2', 'Samsung QN900A', 3000, 'Samsung QN900A 8K Neo QLED Smart TV', 'samsung_qn900a.jpg', 'Samsung televisions'),
+(17, '2', '3', 'Xiaomi Redmi Note 10 Pro', 300, 'Xiaomi Redmi Note 10 Pro 128GB Smartphone', 'redmi_note10pro.jpg', 'Xiaomi smartphones'),
+(18, '5', '4', 'ASUS ROG Zephyrus G14', 1800, 'ASUS ROG Zephyrus G14 14" Gaming Laptop', 'asus_rog_g14.jpg', 'ASUS gaming laptops'),
+(19, '6', '5', 'Xbox Series S', 300, 'Microsoft Xbox Series S Gaming Console', 'xbox_series_s.jpg', 'Microsoft gaming consoles'),
+(20, '3', '6', 'Apple Watch Series 7', 400, 'Apple Watch Series 7 GPS Smartwatch', 'apple_watch7.jpg', 'Apple smartwatches');
 
 CREATE TABLE `received_payment` (
   `id` int(100) NOT NULL,
