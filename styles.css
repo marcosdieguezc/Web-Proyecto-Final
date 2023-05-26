@@ -34,14 +34,14 @@ body{
 }
 #search{
   position: relative;
-  left:360px;
+  left: 990px;
 }
 #search_btn{
   position: relative;
-  left:360px;
+  left:985px;
 }
 
 #shoppingcart{
   position: relative;
-  right: 240px;
+  right: -7px;
 }
