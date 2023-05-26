@@ -59,7 +59,7 @@
 									<input type="password" class="form-control" id="password">
 									<p><br></p>
 									<a href="#" style="color: white;list-style-type: none;">Restablece la contraseña</a>
-									<input type="submit" class="btn btn-success" style="float: right;bottom:12px;" id="login" value="Login" name="">
+									<input type="submit" class="btn btn-success" style="float: right;bottom:12px;" id="login" value="Iniciar sesión" name="">
 								</div>
 								<div class="panel-footer" id="e_msg"></div>
 							</div>
