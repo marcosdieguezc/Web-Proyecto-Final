@@ -121,7 +121,7 @@ CREATE TABLE `user_info` (
   `last_name` varchar(50) NOT NULL,
   `email` varchar(300) NOT NULL,
   `password` varchar(100) NOT NULL,
-  `mobile` varchar(10) NOT NULL,
+  `mobile` varchar(9) NOT NULL,
   `address1` varchar(300) NOT NULL,
   `address2` varchar(300) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
