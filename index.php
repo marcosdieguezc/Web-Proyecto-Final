@@ -76,6 +76,8 @@
 		<div><img src="./assets/images/car1.jpg"></div>
 	    <div><img src="./assets/images/car2.jpg"></div>
 	    <div><img src="./assets/images/car3.jpg"></div>
+		<div><img src="./assets/images/car4.jpg"></div>
+		<div><img src="./assets/images/car5.jpg"></div>
   	</div>
 
 	<br>

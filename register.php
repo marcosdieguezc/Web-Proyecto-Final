@@ -79,7 +79,6 @@
 		exit();
 		}
 
-		//check for available user-details
 		$sql = "SELECT user_id FROM user_info WHERE email = '$email' LIMIT 1" ;
 		$check_query = mysqli_query($conn,$sql);
 		$count_email = mysqli_num_rows($check_query);
