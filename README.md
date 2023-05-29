@@ -4,7 +4,7 @@
 #   Smartshop web  #
 ---
 ## Fecha de inicio: 08/05/2023 ##
-## Fecha de finalización: 12-06-2023 ##
+## Fecha de finalización: 12/06/2023 ##
 ---
 ## De que trata este proyecto? ##
 Este proyecto trata de una página web programada en HTML, CSS, PHP Y JS y está estilizada con las librerías de Boostrap. La web representa una tienda online donde los usuarios tienen que crear su propia cuenta en la web para poder realizar pedidos de productos que se 
