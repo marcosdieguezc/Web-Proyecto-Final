@@ -128,8 +128,8 @@ CREATE TABLE `user_info` (
 
 
 INSERT INTO `user_info` (`user_id`, `first_name`, `last_name`, `email`, `password`, `mobile`, `address1`, `address2`) VALUES
-(1, 'Marcos', 'Dieguez', 'marcosxp.ma@gmail.com', '3814d460c26c2dbab2d80294d2cc9882', '8324567543', 'Calle Mallorca 123', 'Palma 1234'),
-(2, 'Jose', 'Lopez', 'jlopez@gmail.com', '6cebe3b43c4495fdf87fcaa43b485236', '9876546754', 'Calle Ibiza 54', 'Rozas 23');
+(1, 'Marcos', 'Dieguez', 'marcosxp.ma@gmail.com', '3814d460c26c2dbab2d80294d2cc9882', '832456754', 'Calle Mallorca 123', 'Palma 1234'),
+(2, 'Jose', 'Lopez', 'jlopez@gmail.com', '6cebe3b43c4495fdf87fcaa43b485236', '987654675', 'Calle Ibiza 54', 'Rozas 23');
 
 ALTER TABLE `brands`
   ADD PRIMARY KEY (`brand_id`);
