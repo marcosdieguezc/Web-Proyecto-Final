@@ -87,7 +87,7 @@ CREATE TABLE `products` (
 
 INSERT INTO `products` (`product_id`, `product_cat`, `product_brand`, `product_title`, `product_price`, `product_desc`, `product_image`, `product_keywords`) VALUES
 (1, '2', '12', 'Samsung Galaxy S23 128gb', 1200, 'Samsung  Galaxy S23 512Gb', 'samsung.JPG', 'samsung mobile electronics'),
-(2, '3', '7', 'Reloj Samsung Watchfit', 200, 'Smartwatch Samsung ', 'reloj.JPG', 'xiaomi electronics'),
+(2, '3', '7', 'Reloj Samsung Watchfit', 200, 'Smartwatch Samsung ', 'reloj.jpg', 'xiaomi electronics'),
 (3, '5', '10', 'DELL Vostro 3410 i7 16Gb', 1300, 'Ordenador DELL I7 16Gb', 'dell.jpg', 'DELL computers'),
 (4, '2', '3', 'iPhone 14 Pro 256GB', 1300, 'Apple iPhone 14 Pro 256GB', 'iphone14.jpg', 'Apple smartphones'),
 (5, '2', '2', 'Google Pixel 6 128GB', 900, 'Google Pixel 6 128GB 5G Smartphone', 'pixel6.jpg', 'Google smartphones'),
