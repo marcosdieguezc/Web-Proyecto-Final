@@ -2,6 +2,8 @@
 ---
 #  Marcos Dieguez Caycedo  #
 #   Smartshop web  #
+![Logo](https://github.com/marcosdieguezc/Web-Proyecto-Final/blob/main/assets/images/logo.png?raw=true)
+
 ---
 ## Fecha de inicio: 08/05/2023 ##
 ## Fecha de finalización: 12/06/2023 ##
